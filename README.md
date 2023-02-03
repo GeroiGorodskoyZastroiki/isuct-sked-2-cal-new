@@ -1,5 +1,5 @@
 # ISUCT-SKED-2-CAL
-Парсер расписания химтеха в формат .ics для использования в сторонних календарях (Google Calendar, Apple Calendar и т.д.)  
+Парсер расписания химтеха в формат .ics для использования в сторонних календарях (Google Calendar, Apple Calendar, Microsoft Outlook и т.д.)  
 https://isuct-scked-2-cal.netlify.app/ (перед применением советую прочитать FAQ)
 
 ![Google Cal Widget](https://github.com/GeroiGorodskoyZastroiki/isuct-sked-2-cal-new/blob/main/phone.jpg)   
@@ -14,5 +14,3 @@ https://isuct-scked-2-cal.netlify.app/ (перед применением сов
 Хорошая мина при плохой игре
 ### Сожалею ли я о том, что не сделал desktop приложение вместо сайта?
 Да
-### Адаптирован ли сайт для мобилок?
-Нет
