@@ -4,7 +4,7 @@
 https://isuct-scked-2-cal.netlify.app/ (перед применением советую прочитать FAQ)
 
 ![Google Cal Widget](https://github.com/GeroiGorodskoyZastroiki/isuct-sked-2-cal-new/blob/main/phone.jpg)   
-*Я в одном свайпе от имени отчества преподавателя*
+*Я всегда в одном свайпе от имени отчества преподавателя*
 
 # ~~F~~AQ
 ### Зачем на сайте мне выбирать обозначения типа пары (2 шаг), если я не хочу его видеть в своём календаре?
